@@ -63,13 +63,13 @@ Example template repositories and created instances from [Bingo](https://create.
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/Joshua-KGoldberg/create-typescript-app">create-typescript-app</a>
+                <a href="https://github.com/bingo-examples/create-typescript-app">create-typescript-app</a>
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-minimal">created-typescript-app-minimal</a></li>
-                    <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-common">created-typescript-app-common</a></li>
-                    <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-everything">created-typescript-app-everything</a></li>
+                    <li><a href="https://github.com/bingo-examples/created-typescript-app-minimal">created-typescript-app-minimal</a></li>
+                    <li><a href="https://github.com/bingo-examples/created-typescript-app-common">created-typescript-app-common</a></li>
+                    <li><a href="https://github.com/bingo-examples/created-typescript-app-everything">created-typescript-app-everything</a></li>
                 </ul>
             </td>
         </tr>
