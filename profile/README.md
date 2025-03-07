@@ -69,7 +69,7 @@ Example template repositories and created instances from [Bingo](https://create.
                 <ul>
                     <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-minimal">created-typescript-app-minimal</a></li>
                     <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-common">created-typescript-app-common</a></li>
-                    <li><a href="https://github.com/Joshua-KGoldberg/created-typescriptapp-everything">created-typescriptapp-everything</a></li>
+                    <li><a href="https://github.com/Joshua-KGoldberg/created-typescript-app-everything">created-typescript-app-everything</a></li>
                 </ul>
             </td>
         </tr>
