@@ -31,7 +31,7 @@ Example template repositories and created instances from [Bingo](https://create.
                 <a href="https://github.com/bingo-examples/create-handlebars-example-minimal">create-handlebars-example-minimal</a>
         </td>
             <td>
-                <a href="https://github.com/bingo-examples/created-handlebars-example-minimal</li>            ">created-handlebars-example-minimal</a>
+                <a href="https://github.com/bingo-examples/created-handlebars-example-minimal">created-handlebars-example-minimal</a>
             </td>
         </tr>
         <tr>
