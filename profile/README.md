@@ -56,8 +56,8 @@ Example template repositories and created instances from [Bingo](https://create.
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bingo-examples/created-stratum-example-common">created-stratum-example-common</a></li>
-                    <li><a href="https://github.com/bingo-examples/created-stratum-example-full">created-stratum-example-full</a></li>
+                    <li><a href="https://github.com/bingo-examples/created-stratum-example-javascript">created-stratum-example-javascript</a></li>
+                    <li><a href="https://github.com/bingo-examples/created-stratum-example-typescript">created-stratum-example-typescript</a></li>
                 </ul>
             </td>
         </tr>
