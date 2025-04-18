@@ -1,6 +1,11 @@
-# bingo-examples
+# Bingo
 
-Example template repositories and created instances from [Bingo](https://create.bingo). 💝
+Delightful templates for web repositories.
+💝
+
+> Read the docs on [create.bingo](https://create.bingo).
+
+## Example Repositories
 
 <table>
     <thead>
