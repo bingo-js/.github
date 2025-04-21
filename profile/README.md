@@ -5,7 +5,20 @@ Delightful templates for web repositories.
 
 > Read the docs on [create.bingo](https://create.bingo).
 
+Frustrated setting up an endless list of tooling configuration files?
+Tired of dependencies breaking changes in your repositories?
+
+Let Bingo manage it all for you.
+
+- **Creation from Templates**: Create fully-formed, ready-to-use repositories with a single command from templates of your choosing.
+- **Flexible Options**: Customize templates with base options and swapping out which pieces of tooling you’d like to use.
+- **Predictable Transitions**: Keep your repositories up-to-date with automated transitions — including preserving template customizations.
+- **Rich Templating**: Define templates as straightforward as Handlebars folders or as nuanced as individually configurable blocks. It’s up to you.
+
 ## Example Repositories
+
+Want more of a hands-on dive into Bingo templates?
+This organization also hosts example repositories ranging from the barest _"Hello world!"_ to rich multi-preset, multi-option templates.
 
 <table>
     <thead>
