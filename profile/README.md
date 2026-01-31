@@ -30,64 +30,64 @@ This organization also hosts example repositories ranging from the barest _"Hell
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/bingo-examples/create-example-minimal">create-example-minimal</a>
+                <a href="https://github.com/bingo-js/create-example-minimal">create-example-minimal</a>
             </td>
             <td>
-                <a href="https://github.com/bingo-examples/created-example-minimal">created-example-minimal</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bingo-examples/create-example">create-example</a>
-            </td>
-            <td>
-                <a href="https://github.com/bingo-examples/created-example">created-example</a>
+                <a href="https://github.com/bingo-js/created-example-minimal">created-example-minimal</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/bingo-examples/create-handlebars-example-minimal">create-handlebars-example-minimal</a>
+                <a href="https://github.com/bingo-js/create-example">create-example</a>
+            </td>
+            <td>
+                <a href="https://github.com/bingo-js/created-example">created-example</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/bingo-js/create-handlebars-example-minimal">create-handlebars-example-minimal</a>
         </td>
             <td>
-                <a href="https://github.com/bingo-examples/created-handlebars-example-minimal">created-handlebars-example-minimal</a>
+                <a href="https://github.com/bingo-js/created-handlebars-example-minimal">created-handlebars-example-minimal</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/bingo-examples/create-handlebars-example">create-handlebars-example</a>
+                <a href="https://github.com/bingo-js/create-handlebars-example">create-handlebars-example</a>
             </td>
             <td>
-                <a href="https://github.com/bingo-examples/created-handlebars-example">created-handlebars-example</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/bingo-examples/create-stratum-example-minimal">create-stratum-example-minimal</a>
-            </td>
-            <td>
-                <a href="https://github.com/bingo-examples/created-stratum-example-minimal">created-stratum-example-minimal</a>
+                <a href="https://github.com/bingo-js/created-handlebars-example">created-handlebars-example</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/bingo-examples/create-stratum-example">create-stratum-example</a>
+                <a href="https://github.com/bingo-js/create-stratum-example-minimal">create-stratum-example-minimal</a>
+            </td>
+            <td>
+                <a href="https://github.com/bingo-js/created-stratum-example-minimal">created-stratum-example-minimal</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/bingo-js/create-stratum-example">create-stratum-example</a>
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bingo-examples/created-stratum-example-javascript">created-stratum-example-javascript</a></li>
-                    <li><a href="https://github.com/bingo-examples/created-stratum-example-typescript">created-stratum-example-typescript</a></li>
+                    <li><a href="https://github.com/bingo-js/created-stratum-example-javascript">created-stratum-example-javascript</a></li>
+                    <li><a href="https://github.com/bingo-js/created-stratum-example-typescript">created-stratum-example-typescript</a></li>
                 </ul>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/bingo-examples/create-typescript-app">create-typescript-app</a>
+                <a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a>
             </td>
             <td>
                 <ul>
-                    <li><a href="https://github.com/bingo-examples/created-typescript-app-minimal">created-typescript-app-minimal</a></li>
-                    <li><a href="https://github.com/bingo-examples/created-typescript-app-common">created-typescript-app-common</a></li>
-                    <li><a href="https://github.com/bingo-examples/created-typescript-app-everything">created-typescript-app-everything</a></li>
+                    <li><a href="https://github.com/bingo-js/created-typescript-app-minimal">created-typescript-app-minimal</a></li>
+                    <li><a href="https://github.com/bingo-js/created-typescript-app-common">created-typescript-app-common</a></li>
+                    <li><a href="https://github.com/bingo-js/created-typescript-app-everything">created-typescript-app-everything</a></li>
                 </ul>
             </td>
         </tr>
