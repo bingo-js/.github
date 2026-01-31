@@ -81,7 +81,7 @@ This organization also hosts example repositories ranging from the barest _"Hell
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/bingo-js/create-typescript-app">create-typescript-app</a>
+                <a href="https://github.com/JoshuaKGoldberg/create-typescript-app">create-typescript-app</a>
             </td>
             <td>
                 <ul>
